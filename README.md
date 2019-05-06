@@ -1,6 +1,8 @@
 # TextProgressBar
 Component based on ProgressBar;
 
+Forked for minor changes from [Ukusu's TextProgressBar](https://github.com/ukushu/TextProgressBar).
+
 **Have no blinking/flickering**
 
 Have following properties in Visual Studio Properties section:
